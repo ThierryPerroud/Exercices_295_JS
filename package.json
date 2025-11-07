@@ -1,0 +1,20 @@
+{
+  "name": "exercices_295_js",
+  "version": "1.0.0",
+  "description": "Package pour les exercices du module I-295",
+  "homepage": "https://github.com/ThierryPerroud/Exercices_295_JS#readme",
+  "bugs": {
+    "url": "https://github.com/ThierryPerroud/Exercices_295_JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThierryPerroud/Exercices_295_JS.git"
+  },
+  "license": "ISC",
+  "author": "Thierry Perroud",
+  "type": "commonjs",
+  "main": "exercice_js.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
